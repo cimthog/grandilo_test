@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://firecoder:$fire-coder;@grandilo-8vbtk.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "Dogs are loyal!"
+}
